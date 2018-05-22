@@ -4,7 +4,7 @@
 **Busca en 
 [Google](https://www.google.com)**  
 Repositorio para el proyecto final de 9no
-*El proyecto tendra las siguientes carpetas*
+*El proyecto tendra las siguientes carpetas*  
 1. proyecto_demo
     1. docs/
         1. images/
